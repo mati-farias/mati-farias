@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Farias!</h1>
-<h3 align="center">A Italian/Argentinian passionate full-stack developer!</h3>
+<h3 align="center">Italian/Argentinian passionate full-stack developer!</h3>
 
 <h3 align="left">About me:</h3>
 <h4> 
