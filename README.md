@@ -11,10 +11,10 @@ I have experience in problem-solving and I work efficiently as a part of a team.
 - 🌱 I’m currently learning **Python, React-native, PHP**
 
 - ⚡ What I've worked on recently: 
-  [E-Books Store App](https://github.com/mati-farias/E-commerce-BookStore)
+  [E-Books Store App](https://github.com/mati-farias/E-commerce-BookStore) ||
   [Poke-app](https://github.com/mati-farias/piPokemon)
 - ⚡ Link to the deployed apps: 
-  <p>[Deployed E-Books Store App](https://e-commerce-book-store.vercel.app/)</p>
+  [Deployed E-Books Store App](https://e-commerce-book-store.vercel.app/) ||
   [Deployed Poke-app](https://pi-pokemon-vert.vercel.app/)
 
 - 💬 Ask me about **React | JavaScript | Redux | PostgresSQL | Sequelize | Node JS | Express**
