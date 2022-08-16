@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matias Farias!</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A Italian/Argentinian passionate full-stack developer!</h3>
 
 <h3 align="left">About me:</h3>
-<h4>Full stack developer, passionated about front-end technologies. 
-
+<h4> 
 I recently graduated from a Full-stack developer bootcamp focused on the following technologies: Javascript, React Js, Express, Node Js, HTML5 and CSS3. On my own I've also taken courses on other technologies such as Python, Angular 2 and React-native.
 
 I have experience in problem-solving and I work efficiently as a part of a team. I'm always interested in learning and sharing knowledge with team-members. I'm highly communicative, have proven leadership skills and initiative to take on responsabilities.</h4>
