@@ -8,9 +8,10 @@ I recently graduated from a Full-stack developer bootcamp focused on the followi
 
 I have experience in problem-solving and I work efficiently as a part of a team. I'm always interested in learning and sharing knowledge with team-members. I'm highly communicative, have proven leadership skills and initiative to take on responsabilities.<h4>
 
-- 🌱 I’m currently learning **Python, react-native, PHP**
+- 🌱 I’m currently learning **Python, React-native, PHP**
 
 - ⚡ What I've worked on recently: [E-Books Store App](https://github.com/mati-farias/E-commerce-BookStore)
+- ⚡ Link to the deployed app: [Deployed E-Books Store App](https://e-commerce-book-store.vercel.app/)
 
 - 💬 Ask me about **React | JavaScript | Redux | PostgresSQL | Sequelize | Node JS | Express**
 
