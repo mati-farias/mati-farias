@@ -10,7 +10,7 @@ I have experience in problem-solving and I work efficiently as a part of a team.
 
 - 🌱 I’m currently learning **Python, react-native, PHP**
 
-- ⚡ What I've worked on recently [E-Books Store App](https://github.com/mati-farias/E-commerce-BookStore)
+- ⚡ What I've worked on recently: [E-Books Store App](https://github.com/mati-farias/E-commerce-BookStore)
 
 - 💬 Ask me about **React | JavaScript | Redux | PostgresSQL | Sequelize | Node JS | Express**
 
